@@ -1,1 +1,5 @@
-# Arduino_SENSOR_IR_E_DISPLAY_LCD_I2C
+# Arduino COM SENSOR INFRA VERMELHO E DISPLAY LCD COM COMUNIÇÃO VIA I2C
+
+## Referências extraidas das páginas brincando com idéias e blogmasterwalkershop
+
+
