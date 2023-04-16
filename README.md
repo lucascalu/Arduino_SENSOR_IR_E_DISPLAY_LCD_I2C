@@ -17,3 +17,6 @@ SEGUE ABAIXO ESQUEMA DE LIGAÇÃO (DIAGRAMA ELETRÔNICO)
 </p>
 
 <img src="03.jpg" alt="diagram" width="480" height="300">
+
+
+### OBS:Não esqueça de instalar as bibliotecas necessárias
